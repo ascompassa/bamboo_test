@@ -6,7 +6,7 @@
  * @var string
  */
 function config($key = '')
-{
+{ 
     $config = [
         'name' => 'Simple PHP Website',
         'nav_menu' => [
